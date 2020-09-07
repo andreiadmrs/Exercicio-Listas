@@ -1,0 +1,11 @@
+C:\Users\Andie\Documents\csharp\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp2.1\ExercicioListas.csprojAssemblyReference.cache
+C:\Users\Andie\Documents\csharp\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp2.1\ExercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\Andie\Documents\csharp\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp2.1\ExercicioListas.AssemblyInfoInputs.cache
+C:\Users\Andie\Documents\csharp\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp2.1\ExercicioListas.AssemblyInfo.cs
+C:\Users\Andie\Documents\csharp\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp2.1\ExercicioListas.deps.json
+C:\Users\Andie\Documents\csharp\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp2.1\ExercicioListas.runtimeconfig.json
+C:\Users\Andie\Documents\csharp\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp2.1\ExercicioListas.runtimeconfig.dev.json
+C:\Users\Andie\Documents\csharp\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp2.1\ExercicioListas.dll
+C:\Users\Andie\Documents\csharp\ExercicioListas\ExercicioListas\bin\Debug\netcoreapp2.1\ExercicioListas.pdb
+C:\Users\Andie\Documents\csharp\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp2.1\ExercicioListas.dll
+C:\Users\Andie\Documents\csharp\ExercicioListas\ExercicioListas\obj\Debug\netcoreapp2.1\ExercicioListas.pdb
